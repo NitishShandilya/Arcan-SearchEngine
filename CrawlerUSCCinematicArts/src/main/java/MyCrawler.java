@@ -178,7 +178,7 @@ public class MyCrawler extends WebCrawler {
 				String fileNam = URLEncoder.encode(url,"UTF-8") + ext;
 				pagerankdataWriter.append(fileNam);
 				pagerankdataWriter.append(',');
-				FileOutputStream fos = new FileOutputStream("/downloaded_files_test_1/" + fileNam );
+				FileOutputStream fos = new FileOutputStream("/downloaded_files/" + fileNam );
 				fos.write(page.getContentData());
 				fos.close();			
 			
