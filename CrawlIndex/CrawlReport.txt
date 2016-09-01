@@ -1,0 +1,45 @@
+Name: Nitish Mohan Shandilya
+USC ID: 9604876122
+School crawled: Cinematic Arts
+
+Fetch Statistics
+================
+# fetches attempted: 4825
+# fetches succeeded: 4229
+# fetches aborted: 28
+# fetches failed: 568
+
+Outgoing URLs:
+==============
+Total URLs extracted: 208559
+# unique URLs extracted: 15383
+# unique URLs within School: 13097
+# unique USC URLs outside School: 1127
+# unique URLs outside USC: 1159
+
+Status Codes:
+============
+200 OK: 4229
+301 Moved Permanently: 5
+302 Found: 23 
+404 Not Found: 568
+
+File Sizes:
+===========
+< 1KB: 1
+1KB ~ <10KB: 0
+10KB ~ <100KB: 2534
+100KB ~ <1MB: 53
+>= 1MB: 0
+
+Content Types:
+==============
+image/png: 22
+text/html: 2539
+image/jpeg: 1575
+application/pdf: 48
+application/msword : 1
+image/gif : 18
+text/xml : 2
+text/css : 24
+ 
